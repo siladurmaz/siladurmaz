@@ -12,8 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siladurmaz&show_icons=true&theme=dark&title_color=9c1664&text_color=710872&locale=en&layout=compact" alt="siladurmaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siladurmaz&show_icons=true&title_color=9c1664&text_color=710872&locale=en" alt="siladurmaz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siladurmaz&show_icons=true&title_color=9c1664&text_color=710872&hide_border=true&locale=en" alt="siladurmaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siladurmaz&theme=dark" alt="siladurmaz" /></p>
-
 
